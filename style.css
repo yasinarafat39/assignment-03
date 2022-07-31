@@ -1,0 +1,23 @@
+
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Poppins:wght@400;500&display=swap');
+
+.ya-logo{
+    font-family: 'Lobster', cursive;
+
+}
+.ya-p-font{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+/*----- colors ------*/
+.ya-primary{
+   color: #289BDE;
+}
+
+.ya-p-color{
+    color: #777777;
+}
