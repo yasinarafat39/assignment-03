@@ -11,13 +11,20 @@
 
 }
 
-
+.ya-carousel-caption{
+    font-size: 07vh;
+}
 
 /*----- colors ------*/
 .ya-primary{
    color: #289BDE;
 }
-
+.ya-price-color{
+    color:#289BDE;
+}
 .ya-p-color{
     color: #777777;
 }
+
+
+ 
