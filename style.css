@@ -26,5 +26,15 @@
     color: #777777;
 }
 
-
- 
+.ya-ready-section{
+    background-color: #289BDE;
+}
+.ya-ready-btn{
+    background-color: white;
+    color: #289BDE;
+}
+.ya-btn{
+    background-color: #289BDE;
+    color: white;
+    
+}
