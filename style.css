@@ -11,9 +11,7 @@
 
 }
 
-.ya-carousel-caption{
-    font-size: 07vh;
-}
+ 
 
 /*----- colors ------*/
 .ya-primary{
@@ -25,6 +23,7 @@
 .ya-p-color{
     color: #777777;
 }
+ 
 
 .ya-ready-section{
     background-color: #289BDE;
@@ -38,3 +37,24 @@
     color: white;
     
 }
+
+/* Mobile device */
+@media screen and (max-width: 576px) {
+    .ya-carusel-sm-header{
+        font-size: 20px;
+    }
+    .ya-carusel-sm-p{
+        font-size: 10px;
+    }
+}
+
+/* Tab-device */
+@media screen and (min-width:577px) and (max-width:768px) {
+    .ya-carusel-md-header{
+        font-size: 30px;
+    }
+    .ya-carusel-md-p{
+        font-size: 16px;
+    }
+}
+ 
